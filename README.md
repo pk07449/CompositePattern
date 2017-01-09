@@ -1,0 +1,2 @@
+# CompositePattern
+Composite Pattern Example
